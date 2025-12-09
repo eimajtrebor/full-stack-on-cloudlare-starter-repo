@@ -9,10 +9,10 @@
   "compatibility_date": "2025-06-17",
   "assets": {
     "binding": "ASSETS",
-    "not_found_handling": "single-page-application",
+    "not_found_handling": "single-page-application"
   },
   "observability": {
-    "enabled": true,
+    "enabled": true
   },
   "env": {
     "stage": {
@@ -32,5 +32,5 @@
         }
       ]
     }
-  },
+  }
 }
